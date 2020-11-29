@@ -1,0 +1,19 @@
+{
+  "name": "full-stack-web-dev-course",
+  "version": "1.0.0",
+  "description": "'course on full-stack-web-dev-part1'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sedki-Sghairi/full-stack-dev-course.git"
+  },
+  "author": "'sedki sghairi'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sedki-Sghairi/full-stack-dev-course/issues"
+  },
+  "homepage": "https://github.com/Sedki-Sghairi/full-stack-dev-course#readme"
+}
